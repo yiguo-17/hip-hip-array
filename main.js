@@ -1,3 +1,8 @@
+/* This assignment will give you some practice with creating arrays and using their methods. */
+
+/* Please note that his is NOT a function-based challenge (aside from your challenge banner function). Everything should be in the global scope--this means you will benefit from using `for` loops instead of `while`. */
+
+
 // Challenge 0
 //
 // Challenge banner time! Write a function that console.logs "####### Challenge n #######", where n is the number passed into the function.
@@ -41,12 +46,12 @@ const mixedSignNumbers = [3, 15, 14, -2, -3, -8, -103, 4];
 
 
 // Challenge 5
-// Remove two values from the beginning and one value from the end of the following array, and then console.log out each value individually.
+// Remove two values from the beginning and one value from the end of the following array, simply by deleting them in the following line. Then console.log out each value individually.
 const symmetricalCapitals = ['A', 'H', 'I', 'M', 'O', 'T', 'U', 'V', 'W', 'X', 'Y'];
 
 
 // Challenge 6
-// Add a value (your choice!) to the start of the following array and two values (of your choice) to the end, and then console.log out each value individually.
+// Add a value (your choice!) to the start of the following array and two values (of your choice) to the end simply by adding them in the following line, and then console.log out each value individually.
 const fibonacciNumbers = [1, 1, 2, 3, 5, 8, 13];
 
 
